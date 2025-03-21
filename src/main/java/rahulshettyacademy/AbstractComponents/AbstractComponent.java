@@ -22,6 +22,7 @@ public class AbstractComponent {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 		//hey i change the code in for jenkins
+		//hey 2 change
 		
 	}
 	
